@@ -4,18 +4,18 @@ A FCN based on the [original paper](https://arxiv.org/abs/1411.4038) using PyTor
 
 ## Result
 
-Pixel accuracy of ``` 91.69% ``` 
-Mean IoU of ``` 0.3755``` 
+- Pixel accuracy of ``` 91.69% ``` 
+- Mean IoU of ``` 0.3755``` 
 
 
 ###  Inference 
 #### Prediction completely labeled.
 
-[completely](./images/fullprediction.png)
+![completely](./images/fullprediction.png)
 
 #### Prediction partially labeled.
 
-[Partially](./images/partialprediction.png)
+![Partially](./images/partialprediction.png)
 
 #### Inference on video 
-[OnVideo](./images/outputgif.gif)
+![OnVideo](./images/outputgif.gif)
